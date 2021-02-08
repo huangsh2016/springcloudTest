@@ -1,0 +1,7 @@
+spring:
+  application:
+    name : springbootService
+  cloud:
+    config:
+      uri : http://10.10.25.99:6002/
+      profile : release

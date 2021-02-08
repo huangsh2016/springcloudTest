@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springbootAdminServer/springbootAdminServer.iml" filepath="$PROJECT_DIR$/springbootAdminServer/springbootAdminServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootConfig/springbootConfig.iml" filepath="$PROJECT_DIR$/springbootConfig/springbootConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootConsumerFeign/springbootConsumerFergn.iml" filepath="$PROJECT_DIR$/SpringBootConsumerFeign/springbootConsumerFergn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootEureka/springbootEureka.iml" filepath="$PROJECT_DIR$/springbootEureka/springbootEureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootService/springbootService (2).iml" filepath="$PROJECT_DIR$/springbootService/springbootService (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootZuul/springbootZuul.iml" filepath="$PROJECT_DIR$/springbootZuul/springbootZuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+    </modules>
+  </component>
+</project>

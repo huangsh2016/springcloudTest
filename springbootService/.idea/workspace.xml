@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77840edb-7513-4b62-996f-8ed63c88d105" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nxdKnFjpu3E6B6MI2TQNGDtDU4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConsumerClientApplication">
+    <configuration name="所有在 springbootService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootService" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springbootService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sun.ConsumerClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConsumerClientApplication" />
+        <item itemvalue="JUnit.所有在 springbootService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77840edb-7513-4b62-996f-8ed63c88d105" name="默认更改列表" comment="" />
+      <created>1612335613732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612335613732</updated>
+      <workItem from="1612335619516" duration="31000" />
+      <workItem from="1612335724094" duration="8135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612337241922">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state x="378" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1849.1080@0.0.1849.1080" timestamp="1612337241922" />
+    <state x="516" y="198" key="#项目结构" timestamp="1612335953804">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state x="516" y="198" key="#项目结构/0.0.1849.1080@0.0.1849.1080" timestamp="1612335953804" />
+    <state width="1808" height="364" key="GridCell.Tab.0.bottom" timestamp="1612348450433">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state width="1808" height="364" key="GridCell.Tab.0.bottom/0.0.1849.1080@0.0.1849.1080" timestamp="1612348450433" />
+    <state width="1808" height="364" key="GridCell.Tab.0.center" timestamp="1612348450432">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state width="1808" height="364" key="GridCell.Tab.0.center/0.0.1849.1080@0.0.1849.1080" timestamp="1612348450432" />
+    <state width="1808" height="364" key="GridCell.Tab.0.left" timestamp="1612348450432">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state width="1808" height="364" key="GridCell.Tab.0.left/0.0.1849.1080@0.0.1849.1080" timestamp="1612348450432" />
+    <state width="1808" height="364" key="GridCell.Tab.0.right" timestamp="1612348450433">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state width="1808" height="364" key="GridCell.Tab.0.right/0.0.1849.1080@0.0.1849.1080" timestamp="1612348450433" />
+    <state width="1808" height="364" key="GridCell.Tab.1.bottom" timestamp="1612348450433">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state width="1808" height="364" key="GridCell.Tab.1.bottom/0.0.1849.1080@0.0.1849.1080" timestamp="1612348450433" />
+    <state width="1808" height="364" key="GridCell.Tab.1.center" timestamp="1612348450433">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state width="1808" height="364" key="GridCell.Tab.1.center/0.0.1849.1080@0.0.1849.1080" timestamp="1612348450433" />
+    <state width="1808" height="364" key="GridCell.Tab.1.left" timestamp="1612348450433">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state width="1808" height="364" key="GridCell.Tab.1.left/0.0.1849.1080@0.0.1849.1080" timestamp="1612348450433" />
+    <state width="1808" height="364" key="GridCell.Tab.1.right" timestamp="1612348450433">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state width="1808" height="364" key="GridCell.Tab.1.right/0.0.1849.1080@0.0.1849.1080" timestamp="1612348450433" />
+    <state width="1808" height="364" key="GridCell.Tab.2.bottom" timestamp="1612348450433">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state width="1808" height="364" key="GridCell.Tab.2.bottom/0.0.1849.1080@0.0.1849.1080" timestamp="1612348450433" />
+    <state width="1808" height="364" key="GridCell.Tab.2.center" timestamp="1612348450433">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state width="1808" height="364" key="GridCell.Tab.2.center/0.0.1849.1080@0.0.1849.1080" timestamp="1612348450433" />
+    <state width="1808" height="364" key="GridCell.Tab.2.left" timestamp="1612348450433">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state width="1808" height="364" key="GridCell.Tab.2.left/0.0.1849.1080@0.0.1849.1080" timestamp="1612348450433" />
+    <state width="1808" height="364" key="GridCell.Tab.2.right" timestamp="1612348450433">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state width="1808" height="364" key="GridCell.Tab.2.right/0.0.1849.1080@0.0.1849.1080" timestamp="1612348450433" />
+    <state x="204" y="242" key="new project wizard" timestamp="1612340088618">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state x="204" y="242" key="new project wizard/0.0.1849.1080@0.0.1849.1080" timestamp="1612340088618" />
+    <state x="587" y="235" key="search.everywhere.popup" timestamp="1612335956164">
+      <screen x="0" y="0" width="1849" height="1080" />
+    </state>
+    <state x="587" y="235" key="search.everywhere.popup/0.0.1849.1080@0.0.1849.1080" timestamp="1612335956164" />
+  </component>
+</project>

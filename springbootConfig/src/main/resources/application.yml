@@ -1,0 +1,25 @@
+server:
+  port: 6002
+spring:
+  application:
+    name: springbootConfig
+  profiles:
+    active: subversion
+  cloud:
+    config:
+      server:
+        svn:
+          uri: http://hzsvn.asiainfo.com/svn/doc/NGBOSS/06%E8%AE%BE%E8%AE%A1%E5%BC%80%E5%8F%91/%E7%BB%BC%E5%90%88%E5%B8%90%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/06%E5%B8%90%E5%8A%A1%E7%AE%A1%E7%90%86%E5%B9%BF%E7%94%B5%E7%89%88%E6%9C%AC/%E5%9F%B9%E8%AE%AD%E8%B5%84%E6%96%99/config
+          username: huangsh3
+          password: 123
+          default-label:
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:5000/eureka/
+  instance:
+    preferIpAddress: true
+    instance-id: ${spring.cloud.client.ipAddress}:${server.port}
+    lease-expiration-duration-in-seconds: 30
+    lease-renewal-interval-in-seconds: 30

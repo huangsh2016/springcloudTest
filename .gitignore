@@ -1,0 +1,7 @@
+# Project exclude paths
+/springbootAdminServer/target/
+/springbootConfig/target/
+/SpringBootConsumerFeign/target/
+/springbootEureka/target/
+/springbootService/target/
+/springbootZuul/target/
