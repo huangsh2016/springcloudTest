@@ -1,0 +1,17 @@
+1.启动顺序
+  eureka          服务注册
+  config          配置中心  从公司svn获取
+  adminServer     服务状态监控  http://localhost:6008/
+  microServicce   服务
+  feign           熔断
+  zuul            路由、网关
+
+1.ELK 日志归集 （本地windows版本）
+  elasticsearch   http://localhost:5601/
+  kibana
+  logstash
+  
+2.zipkin 链路跟踪   http://10.1.192.36:9411/zipkin/
+  ssh 10.1.192.36 
+  cd  ~/huangsh
+  java -jar zipkin-server-2.23.2-exec.jar &
