@@ -10,4 +10,4 @@ spring:
     sampler:
       probability: 1
 logging:
-  config: classpath:logback-spring.xml
+  config: logback-spring.xml
