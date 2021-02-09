@@ -8,10 +8,46 @@
 
 1.ELK 日志归集 （本地windows版本）
   elasticsearch   http://localhost:5601/
+  下载地址：https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.2-windows-x86_64.zip
   kibana
+  下载地址：https://artifacts.elastic.co/downloads/kibana/kibana-7.10.2-windows-x86_64.zip
   logstash
-  
+  下载地址：https://artifacts.elastic.co/downloads/logstash/logstash-7.10.2-windows-x86_64.zip
+
+  logstash.conf
+    input {
+      tcp {
+        mode => "server"
+        host => "localhost"
+        port => 9061
+        codec => json_lines
+      }
+    }
+    output {
+      elasticsearch {
+        hosts => "localhost:9200"
+        index => "springboot-logstash-%{+YYYY.MM.dd}"
+      }
+    }
+
 2.zipkin 链路跟踪   http://10.1.192.36:9411/zipkin/
   ssh 10.1.192.36 
   cd  ~/huangsh
   java -jar zipkin-server-2.23.2-exec.jar &
+  下载地址：https://repo1.maven.org/maven2/io/zipkin/zipkin-server/2.23.2/zipkin-server-2.23.2-exec.jar
+
+  logstash.conf
+  input {
+    tcp {
+      mode => "server"
+      host => "localhost"
+      port => 9061
+      codec => json_lines
+    }
+  }
+  output {
+    elasticsearch {
+      hosts => "localhost:9200"
+      index => "springboot-logstash-%{+YYYY.MM.dd}"
+    }
+  }
