@@ -4,7 +4,7 @@ eureka:
       defaultZone: http://localhost:5000/eureka/
 
 logging:
-  config: classpath:https://github.com/huangsh2016/springcloudTest.git/configFile/logback-spring.xml
+  config: classpath:logback-spring.xml
 
 spring:
   zipkin:
