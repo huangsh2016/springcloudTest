@@ -35,19 +35,3 @@
   cd  ~/huangsh
   java -jar zipkin-server-2.23.2-exec.jar &
   下载地址：https://repo1.maven.org/maven2/io/zipkin/zipkin-server/2.23.2/zipkin-server-2.23.2-exec.jar
-
-  logstash.conf
-  input {
-    tcp {
-      mode => "server"
-      host => "localhost"
-      port => 9061
-      codec => json_lines
-    }
-  }
-  output {
-    elasticsearch {
-      hosts => "localhost:9200"
-      index => "springboot-logstash-%{+YYYY.MM.dd}"
-    }
-  }
