@@ -2,11 +2,6 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:5000/eureka/
-
-logging:
-  config:
-  classpath: logback-spring.xml
-
 spring:
   zipkin:
     base-url: http://10.1.192.36:9411
@@ -14,3 +9,5 @@ spring:
   sleuth:
     sampler:
       probability: 1
+logging:
+  config: classpath:logback-spring.xml
